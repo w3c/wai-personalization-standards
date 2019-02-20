@@ -10,7 +10,6 @@ feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> @@@</p>
   <p>@@@</p>
-  
 ---
 
 

@@ -10,7 +10,7 @@ feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> DRAFT 26 March 2019.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/roy/">Ruoxi Ran</a>, <a href="http://www.w3.org/People/cooper/">Michael Cooper</a>, and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the <a href="https://www.w3.org/WAI/APA/task-forces/personalization/">Personalization Task Force </a>.<p>
+  <p>Developed with input from the <a href="https://www.w3.org/WAI/APA/task-forces/personalization/">Personalization Task Force</a>.<p>
 ---
 
 {::nomarkdown}

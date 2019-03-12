@@ -53,7 +53,7 @@ Personalization enables users to use adaptive widgets and user preferences to cu
 * Some people have **difficulty understanding numbers** ("dyscalculia"). Personalization allows users to change numeric information. For example, a temperature of 32&deg;F/0&deg;C is replaced with a picture of a person wearing a hat, scarf, and mittens, and the text "very cold".
 * Some people with severe language impairment **cannot read text**. They use symbols to represent words. Personalization allows users to change text to symbols.
 
-## Who Personalization Documents are for
+## Who the Personalization Documents are for
 * **Content developers** can add syntax to support personalization. 
 * **User agents** such as browser extensions and assistive technology can use the syntax to manipulate the content to meet the user’s need. User agents can also use user preferences for different interface options.
 
@@ -64,10 +64,9 @@ Personalization enables users to use adaptive widgets and user preferences to cu
 * [Personalization Tools](https://www.w3.org/TR/personalization-semantics-tools-1.0/) (Working Draft) lists examples of the personalized tools properties.
 * [Requirements for Personalization Semantics](https://w3c.github.io/personalization-semantics/requirements/) (Editors' Draft) establishes the basis for W3C's work on personalization.
 
-## Who develops Personalization Documents
+## Who Develops the Personalization Documents
 Personalization documents are developed by the [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) of the Accessible Platform Working Group ([APA WG](https://www.w3.org/WAI/APA/)), which is part of the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)). For more information about the task force, see the [Personalization Task Force page](https://www.w3.org/WAI/APA/task-forces/personalization/).
 
 Formal periods for public review are described in [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute](http://www.w3.org/WAI/intro/w3c-process). To submit comments on specific personalization documents, see the “Status of this Document” section of the resource. To get notices of opportunities for review and comment on WAI documents, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 
 Opportunities for contributing to Personalization and other WAI work are introduced in [Participating in WAI](https://www.w3.org/WAI/about/participating/).
-

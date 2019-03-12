@@ -8,7 +8,7 @@ github:
   repository: w3c/wai-personalization-standards
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> DRAFT 26 March 2019.</p>
+  <p><strong>Date:</strong> 12 March 2019.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/roy/">Ruoxi Ran</a>, <a href="http://www.w3.org/People/cooper/">Michael Cooper</a>, and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the <a href="https://www.w3.org/WAI/APA/task-forces/personalization/">Personalization Task Force</a>.<p>
 ---
@@ -46,6 +46,12 @@ Quick links to documents:
 Personalization involves tailoring the user experience to meet the needs and preferences of the individual user. As web technology broadens in scope and reach, and understanding of users' needs increases through research and experience, the set of accessibility considerations for websites becomes larger. Rather than developing complex solutions for a wide range of users, designing sites in a way that they can be personalized to the needs of each user provides more optimal accessibility.
 
 Personalization enables users to use adaptive widgets and user preferences to customize their user experience. It enables content authors to provide a default design and enable user personalization with minimal work.
+
+### Examples of Personalization to Meet User Needs
+
+* Some people are easily **distracted or overwhelmed by lots of information** on a website. They have difficulty finding and focusing on key information. Personalization allows users to hide extraneous information so they only get what they need to understand and use the main content.
+* Some people have **difficulty understanding numbers** ("dyscalculia"). Personalization allows users to change numeric information. For example, a temperature of 32&deg;F/0&deg;C is replaced with a picture of a person wearing a hat, scarf, and mittens, and the text "very cold".
+* Some people with severe language impairment **cannot read text**. They use symbols to represent words. Personalization allows users to change text to symbols.
 
 ## Who Personalization Documents are for
 * **Content developers** can add syntax to support personalization. 

@@ -47,7 +47,7 @@ Personalization involves tailoring the user experience to meet the needs and pre
 
 Personalization enables users to use adaptive widgets and user preferences to customize their user experience. It enables content authors to provide a default design and enable user personalization with minimal work.
 
-### Examples of Personalization to Meet User Needs
+### Examples of Personalization to Meet User Needs {#examples}
 
 * Some people are easily **distracted or overwhelmed by lots of information** on a website. They have difficulty finding and focusing on key information. Personalization allows users to hide extraneous information so they only get what they need to understand and use the main content.
 * Some people have **difficulty understanding numbers** ("dyscalculia"). Personalization allows users to change numeric information. For example, a temperature of 32&deg;F/0&deg;C is replaced with a picture of a person wearing a hat, scarf, and mittens, and the text "very cold".

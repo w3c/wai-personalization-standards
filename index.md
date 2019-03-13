@@ -1,7 +1,7 @@
 ---
 title: Personalization Overview
-permalink: /standards-guidelines/personalization/
-ref: /standards-guidelines/personalization/
+permalink: /personalization/
+ref: /personalization/
 lang: en
 layout: default
 github:

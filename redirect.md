@@ -1,7 +1,7 @@
 ---
 title: Redirect
 permalink: /
-redirect_to: /standards-guidelines/personalization/
+redirect_to: /personalization/
 ---
 
 

@@ -59,9 +59,9 @@ Personalization enables users to use adaptive widgets and user preferences to cu
 * **User agents** such as browser extensions and assistive technology can use the syntax to manipulate the content to meet the user’s need. User agents can also use user preferences for different interface options.
 
 ## The Personalization Documents
-* [Requirements for Personalization Semantics](https://w3c.github.io/personalization-semantics/requirements/) (Working Draft) includes user stories, specific use cases, and requirements for personalization.
-* [Personalization Semantics Explainer](https://www.w3.org/TR/personalization-semantics-1.0/) (Working Draft) is the core introductory document that explains general use cases, vocabulary, and anticipated uses.
-* [Personalization Semantics Content Module](https://www.w3.org/TR/personalization-semantics-content-1.0/) (Working Draft) is the technical specification that provides terms authors can use to enhance web content with information about controls, symbols, and user interface elements.
+* [Requirements for Personalization Semantics](https://www.w3.org/TR/personalization-semantics-requirements-1.0/) (Working Draft Note) includes user stories, specific use cases, and requirements for personalization.
+* [Personalization Semantics Explainer](https://www.w3.org/TR/personalization-semantics-1.0/) (Working Draft Note) is the core introductory document that explains general use cases, vocabulary, and anticipated uses.
+* [Personalization Semantics Content Module](https://www.w3.org/TR/personalization-semantics-content-1.0/) (Working Draft specification) is the technical specification that provides terms authors can use to enhance web content with information about controls, symbols, and user interface elements.
 * [Personalization Help and Support](https://www.w3.org/TR/personalization-semantics-help-1.0/) (Working Draft) lists examples of the personalized help and support properties.
 * [Personalization Tools](https://www.w3.org/TR/personalization-semantics-tools-1.0/) (Working Draft) lists examples of the personalized tools properties.
 

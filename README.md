@@ -1,3 +1,1 @@
-# wai-personalization-standards
-
-Preview: https://w3c.github.io/wai-personalization-standards/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e715dd6b-93c3-4f01-b3f7-521296475fb6/deploy-status)](https://app.netlify.com/sites/wai-personalization-standards/deploys)

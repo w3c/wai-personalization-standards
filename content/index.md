@@ -1,6 +1,6 @@
 ---
 title: Adapt Overview
-title_html: "Adapt Overview<br><span style='font-style: italic; font-size: 0.5em;'> [this is a draft page to see how renaming 'personalization' to 'Adapt' might work. see <a href='https://github.com/w3c/wai-personalization-standards/issues/7'>Naming GitHub Issue</a>]</span>"
+title_html: "Adapt Overview<br><span style='font-style: italic; font-size: 0.5em; line-height:1'> [this is a draft page to see how renaming 'personalization' to 'Adapt' might work. see <a href='https://github.com/w3c/wai-personalization-standards/issues/7'>Naming GitHub Issue</a>]</span>"
 permalink: /personalization/
 ref: /personalization/
 lang: en
@@ -12,12 +12,6 @@ footer: >
   <p><strong>Date:</strong> DRAFT idea. First published March 2019.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/roy/">Ruoxi Ran</a>, <a href="http://www.w3.org/People/cooper/">Michael Cooper</a>, and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the <a href="https://www.w3.org/WAI/APA/task-forces/personalization/">Personalization Task Force</a>.<p>
-
-inline_css: |
-  h1 {
-    line-height:1;
-  }
-  
 ---
 
 {::nomarkdown}

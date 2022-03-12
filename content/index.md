@@ -1,6 +1,6 @@
 ---
 title: Adapt Overview
-title_html: "Adapt Overview<br><span style='font-style: italic; font-size: 0.5em; line-height:1'> [this is a draft page to see how renaming 'personalization' to 'Adapt' might work. see <a href='https://github.com/w3c/wai-personalization-standards/issues/7'>Naming GitHub Issue</a>]</span>"
+title_html: "<span style='line-height:1'>Adapt Overview<br><span style='font-style: italic; font-size: 0.5em'> [rough draft of how renaming 'personalization' to 'Adapt' might work &mdash; see <a href='https://github.com/w3c/wai-personalization-standards/issues/7'>'branding'</a>]</span></span>"
 permalink: /personalization/
 ref: /personalization/
 lang: en
@@ -55,7 +55,7 @@ Adapt enables users to use adaptive widgets and user preferences to customize th
 * Some people have **difficulty understanding numbers** ("dyscalculia"). Adapt allows users to change numeric information. For example, a temperature of 32&deg;F/0&deg;C is replaced with a picture of a person wearing a hat, scarf, and mittens, and the text "very cold".
 * Some people with severe language impairment **cannot read text**. They use symbols to represent words. Adapt allows users to change text to symbols.
 
-## Who the Adapt Documents are for
+## Who the Adapt Specifications are for
 * **Content developers** can add syntax to support adaptation. 
 * **User agents** such as browser extensions and assistive technology can use the syntax to manipulate the content to meet the user’s need. User agents can also use user preferences for different interface options.
 
@@ -66,7 +66,7 @@ Adapt enables users to use adaptive widgets and user preferences to customize th
 * [Adapt: Help and Support Module](https://www.w3.org/TR/personalization-semantics-help-1.0/) (Working Draft) lists examples of the adapted help and support properties.
 * [Adapt: Tools Module](https://www.w3.org/TR/personalization-semantics-tools-1.0/) (Working Draft) lists examples of the adapt tools properties.
 
-## Who Develops the Adapt Documents
+## Who Develops Adapt
 Adapt documents are developed by the [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) of the Accessible Platform Working Group ([APA WG](https://www.w3.org/WAI/APA/)), which is part of the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)). For more information about the task force, see the [Personalization Task Force page](https://www.w3.org/WAI/APA/task-forces/personalization/).
 
 Formal periods for public review are described in [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute](http://www.w3.org/WAI/intro/w3c-process). To submit comments on specific Adapt documents, see the “Status of this Document” section of the resource. To get notices of opportunities for review and comment on WAI documents, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).

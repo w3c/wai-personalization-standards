@@ -1,6 +1,6 @@
 ---
 title: Adapt Overview
-title_html: "<em>or maybe:</em>Adapt Specifications Overview<br><span style='line-height:1'>Adapt Overview<br><span style='font-style: italic; font-size: 0.5em'> [rough draft of how renaming 'personalization' to 'Adapt' might work &mdash; see <a href='https://github.com/w3c/wai-personalization-standards/issues/7'>'branding'</a>]</span></span>"
+title_html: "<span style='line-height:1'>Adapt Overview<br><em>or maybe:</em><br>Adapt Specifications Overview<br><span style='font-style: italic; font-size: 0.5em'> [rough draft of how renaming 'personalization' to 'Adapt' might work &mdash; see <a href='https://github.com/w3c/wai-personalization-standards/issues/7'>'branding'</a>]</span></span>"
 permalink: /personalization/
 ref: /personalization/
 lang: en

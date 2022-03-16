@@ -1,6 +1,6 @@
 ---
 title: Adapt Overview
-title_html: "<span style='line-height:1'>Adapt Overview<br><em>or maybe:</em><br>Adapt Specifications Overview<br><span style='font-style: italic; font-size: 0.5em'> [rough draft of how renaming 'personalization' to 'Adapt' might work &mdash; see <a href='https://github.com/w3c/wai-personalization-standards/issues/7'>'branding'</a>]</span></span>"
+title_html: "<span style='line-height:1'>Adapt Overview<br><span style='font-style: italic; font-size: 0.5em'>[or maybe]</span><br>Adapt Specifications Overview<br><span style='font-style: italic; font-size: 0.5em'>[rough draft of how renaming 'personalization' to 'Adapt specifications' might work &mdash; old notes: <a href='https://github.com/w3c/wai-personalization-standards/issues/7'>'branding'</a>]</span></span>"
 permalink: /personalization/
 ref: /personalization/
 lang: en
@@ -72,5 +72,3 @@ Adapt documents are developed by the [Personalization Task Force](https://www.w3
 Formal periods for public review are described in [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute](http://www.w3.org/WAI/intro/w3c-process). To submit comments on specific Adapt documents, see the “Status of this Document” section of the resource. To get notices of opportunities for review and comment on WAI documents, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 
 Opportunities for contributing to Adapt and other WAI work are introduced in [Participating in WAI](https://www.w3.org/WAI/about/participating/).
-  
-  ...

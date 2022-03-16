@@ -72,3 +72,5 @@ Adapt documents are developed by the [Personalization Task Force](https://www.w3
 Formal periods for public review are described in [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute](http://www.w3.org/WAI/intro/w3c-process). To submit comments on specific Adapt documents, see the “Status of this Document” section of the resource. To get notices of opportunities for review and comment on WAI documents, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 
 Opportunities for contributing to Adapt and other WAI work are introduced in [Participating in WAI](https://www.w3.org/WAI/about/participating/).
+  
+  ...

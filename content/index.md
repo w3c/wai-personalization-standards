@@ -1,9 +1,9 @@
 ---
 doc-note-type: draft
-doc-note-message: <p>This is a draft re-wording Personalization->Adapt. See background and discussion in <a href='https://github.com/w3c/wai-personalization-standards/issues/8'>GitHub issue 'branding'</a></p>
+doc-note-message: <p>This is a draft re-wording of 'Personalization' to 'Adapt'. See background and discussion in <a href='https://github.com/w3c/wai-personalization-standards/issues/8'>GitHub issue 'branding'</a></p>
 
 title: WAI-Adapt Overview
-title_html: "WAI-Adapt Overview<br><span style='font-style: italic; font-size: 0.5em'>Enabling users to adapt content<br>Enabling users to adapt content presentation<br>Enabling users to personalize content presentation</span>"	
+title_html: "<span style='line-height:1'><br>WAI-Adapt Overview<br><span style='font-style: italic; font-size: 0.75em'>Enabling users to adapt content<br>Enabling users to adapt content presentation<br><br>Enabling users to change content presentation<br>Enabling users to personalize content presentation</span></span>"	
 permalink: /personalization/
 ref: /personalization/
 lang: en
@@ -50,7 +50,10 @@ Quick links to documents:
 {:/}
  
 ## Introduction
-WAI-Adapt specifications enable changing how content is presented to meet the needs and preferences of individual users. As web technology broadens in scope and reach, and understanding of users' needs increases through research and experience, the set of accessibility considerations for websites becomes larger. Rather than developing complex solutions for a wide range of users, designing sites in a way that they can be personalized to the needs of each user provides more optimal accessibility.
+  
+WAI-Adapt specifications enable users to personalize how content is presented to meet their needs and preferences.
+  
+As web technology broadens in scope and reach, and understanding of users' needs increases through research and experience, the set of accessibility considerations for websites becomes larger. Rather than developing complex solutions for a wide range of users, designing sites in a way that they can be personalized to the needs of each user provides more optimal accessibility.
 
 WAI-Adapt enables users to use adaptive widgets and user preferences to customize their user experience. It enables content authors to provide a default design and enable user adaptation with minimal work.
 

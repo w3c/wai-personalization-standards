@@ -23,7 +23,7 @@ footer: >
 
 This page introduces the WAI-Adapt series of technical specifications. WAI-Adapt enables users to adapt (or 'personalize') how content is presented.
   
-Why Adapt: It's important to meet individual needs and preferences for content presentation, including the accessibility needs of people with disabilites.
+Why Adapt: It's important to meet individual needs and preferences, including the accessibility needs of people with disabilites.
 
 Quick links to documents:
 * [Requirements for WAI-Adapt Specifications](https://www.w3.org/TR/personalization-semantics-requirements-1.0/)
@@ -51,7 +51,7 @@ Quick links to documents:
  
 ## Introduction
   
-WAI-Adapt specifications enable users to personalize how content is presented to meet their needs and preferences.
+WAI-Adapt specifications enable users to personalize how content is presented in order to meet their needs and preferences.
   
 As web technology broadens in scope and reach, and understanding of users' needs increases through research and experience, the set of accessibility considerations for websites becomes larger. Rather than developing complex solutions for a wide range of users, designing sites in a way that they can be personalized to the needs of each user provides more optimal accessibility.
 

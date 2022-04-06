@@ -3,7 +3,7 @@ doc-note-type: draft
 doc-note-message: <p>This is a draft re-wording of 'Personalization' to 'Adapt'. See background and discussion in <a href='https://github.com/w3c/wai-personalization-standards/issues/8'>GitHub issue 'branding'</a></p>
 
 title: WAI-Adapt Overview
-title_html: "<span style='line-height:1'><br>WAI-Adapt Overview<br><span style='font-style: italic; font-size: 0.75em'>Enabling users to adapt content<br>Enabling users to adapt content presentation<br><br>Enabling users to change content presentation<br>Enabling users to personalize content presentation</span></span>"	
+title_html: "<span style='line-height:1'><br>WAI-Adapt Overview<br><span style='font-style: italic; font-size: 0.75em'>Enabling users to adapt content<br>Enabling users to adapt content presentation<br>Enabling users to change content presentation<br>Enabling users to personalize content presentation</span></span>"	
 permalink: /personalization/
 ref: /personalization/
 lang: en

@@ -1,9 +1,9 @@
 ---
 doc-note-type: draft
-doc-note-message: <p>Background and discussion in <a href='https://github.com/w3c/wai-personalization-standards/issues/8'>GitHub issue 'branding'</a></p>
+doc-note-message: <p>This is a draft re-wording Personalization->Adapt. See background and discussion in <a href='https://github.com/w3c/wai-personalization-standards/issues/8'>GitHub issue 'branding'</a></p>
 
 title: WAI-Adapt Overview
-title_html: "WAI-Adapt Overview<br><span style='font-style: italic; font-size: 0.875em'>Enabling users to adapt content</span><br><span style='font-style: italic; font-size: 0.875em'>Enabling users to adapt content presentation</span><br><span style='font-style: italic; font-size: 0.875em'>Enabling users to personalize content presentation</span>"	
+title_html: "WAI-Adapt Overview<br><span style='font-style: italic; font-size: 0.5em'>Enabling users to adapt content<br>Enabling users to adapt content presentation<br>Enabling users to personalize content presentation</span>"	
 permalink: /personalization/
 ref: /personalization/
 lang: en
@@ -23,7 +23,7 @@ footer: >
 
 This page introduces the WAI-Adapt series of technical specifications. WAI-Adapt enables users to adapt (or 'personalize') how content is presented.
   
-WAI-Adapt: It's important to meet individual needs and preferences for content presentation, including the accessibility needs of people with disabilites.
+Why Adapt: It's important to meet individual needs and preferences for content presentation, including the accessibility needs of people with disabilites.
 
 Quick links to documents:
 * [Requirements for WAI-Adapt Specifications](https://www.w3.org/TR/personalization-semantics-requirements-1.0/)
@@ -50,15 +50,15 @@ Quick links to documents:
 {:/}
  
 ## Introduction
-WAI-Adapt specifications enable tailoring content presentation to meet the needs and preferences of individual users. As web technology broadens in scope and reach, and understanding of users' needs increases through research and experience, the set of accessibility considerations for websites becomes larger. Rather than developing complex solutions for a wide range of users, designing sites in a way that they can be personalized to the needs of each user provides more optimal accessibility.
+WAI-Adapt specifications enable changing how content is presented to meet the needs and preferences of individual users. As web technology broadens in scope and reach, and understanding of users' needs increases through research and experience, the set of accessibility considerations for websites becomes larger. Rather than developing complex solutions for a wide range of users, designing sites in a way that they can be personalized to the needs of each user provides more optimal accessibility.
 
 WAI-Adapt enables users to use adaptive widgets and user preferences to customize their user experience. It enables content authors to provide a default design and enable user adaptation with minimal work.
 
-### Examples of Adaptation to Meet User Needs {#examples}
+### Examples of WAI-Adapt to Meet User Needs {#examples}
 
 * Some people are easily **distracted or overwhelmed by lots of information** on a website. They have difficulty finding and focusing on key information. WAI-Adapt allows users to hide extraneous information so they only get what they need to understand and use the main content.
-* Some people have **difficulty understanding numbers** ("dyscalculia"). Adapt allows users to change numeric information. For example, a temperature of 32&deg;F/0&deg;C is replaced with a picture of a person wearing a hat, scarf, and mittens, and the text "very cold".
-* Some people with severe language impairment **cannot read text**. They use symbols to represent words. Adapt allows users to change text to symbols.
+* Some people have **difficulty understanding numbers** ("dyscalculia"). WAI-Adapt allows users to change numeric information. For example, a temperature of 32&deg;F/0&deg;C is replaced with a picture of a person wearing a hat, scarf, and mittens, and the text "very cold".
+* Some people with severe language impairment **cannot read text**. They use symbols to represent words. WAI-Adapt allows users to change text to symbols.
 
 ## Who the WAI-Adapt Specifications are for
 * **Content developers** can add syntax to support adaptation. 

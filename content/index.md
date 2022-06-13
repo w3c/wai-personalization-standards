@@ -14,7 +14,7 @@ feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated @@ June 2022. First published March 2019.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="http://www.w3.org/People/roy/">Ruoxi Ran</a>.</p>
-  <p>Developed with input from the <a href="https://www.w3.org/WAI/APA/task-forces/personalization/">Personalization Task Force</a>.<p>
+  <p>Developed with input from the <a href="https://www.w3.org/WAI/APA/task-forces/personalization/">WAI-Adapt Task Force</a>.<p>
 ---
 
 {::nomarkdown}
@@ -26,11 +26,11 @@ This page introduces the WAI-Adapt series of technical specifications. WAI-Adapt
 Why Adapt: It's important to meet individual needs and preferences, including the accessibility needs of people with disabilites.
 
 Quick links to documents:
-* [Requirements for WAI-Adapt Specifications](https://www.w3.org/TR/personalization-semantics-requirements-1.0/)
-* [WAI-Adapt Explainer](https://www.w3.org/TR/personalization-semantics-1.0/)
-* [WAI-Adapt: Content Module](https://www.w3.org/TR/personalization-semantics-content-1.0/)
-* [WAI-Adapt: Help and Support Module](https://www.w3.org/TR/personalization-semantics-help-1.0/)
-* [WAI-Adapt: Tools Module](https://www.w3.org/TR/personalization-semantics-tools-1.0/)
+* [Requirements for WAI-Adapt Specifications](https://www.w3.org/TR/adapt-requirements/)
+* [WAI-Adapt Explainer](https://www.w3.org/TR/adapt/)
+* [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/)
+* [WAI-Adapt: Help and Support Module](https://www.w3.org/TR/adapt-help/)
+* [WAI-Adapt: Tools Module](https://www.w3.org/TR/adapt-tools/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -68,14 +68,14 @@ WAI-Adapt enables users to use adaptive widgets and user preferences to customiz
 * **User agents** such as browser extensions and assistive technology can use the syntax to manipulate the content to meet the user’s need. User agents can also use user preferences for different interface options.
 
 ## The WAI-Adapt Documents
-* [Requirements for WAI-Adapt Specificationss](https://www.w3.org/TR/personalization-semantics-requirements-1.0/) (Working Draft Note) includes user stories, specific use cases, and requirements for Adapt.
-* [WAI-Adapt Explainer](https://www.w3.org/TR/personalization-semantics-1.0/) (Working Draft Note) is the core introductory document that explains general use cases, vocabulary, and anticipated uses.
-* [WAI-Adapt: Content Module](https://www.w3.org/TR/personalization-semantics-content-1.0/) (Working Draft specification) is the technical specification that provides terms authors can use to enhance web content with information about controls, symbols, and user interface elements.
-* [WAI-Adapt: Help and Support Module](https://www.w3.org/TR/personalization-semantics-help-1.0/) (Working Draft) lists examples of the adapted help and support properties.
-* [WAI-Adapt: Tools Module](https://www.w3.org/TR/personalization-semantics-tools-1.0/) (Working Draft) lists examples of the adapt tools properties.
+* [Requirements for WAI-Adapt Specificationss](https://www.w3.org/TR/adapt-requirements/) (Working Draft Note) includes user stories, specific use cases, and requirements for Adapt.
+* [WAI-Adapt Explainer](https://www.w3.org/TR/adapt/) (Working Draft Note) is the core introductory document that explains general use cases, vocabulary, and anticipated uses.
+* [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/) (Working Draft specification) is the technical specification that provides terms authors can use to enhance web content with information about controls, symbols, and user interface elements.
+* [WAI-Adapt: Help and Support Module](https://www.w3.org/TR/adapt-help/) (Working Draft) lists examples of the adapted help and support properties.
+* [WAI-Adapt: Tools Module](https://www.w3.org/TR/adapt-tools/) (Working Draft) lists examples of the adapt tools properties.
 
 ## Who Develops WAI-Adapt
-WAI-Adapt documents are developed by the [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) of the Accessible Platform Working Group ([APA WG](https://www.w3.org/WAI/APA/)), which is part of the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)). For more information about the task force, see the [Personalization Task Force page](https://www.w3.org/WAI/APA/task-forces/personalization/).
+WAI-Adapt documents are developed by the [WAI-Adapt Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) of the Accessible Platform Working Group ([APA WG](https://www.w3.org/WAI/APA/)), which is part of the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)). For more information about the task force, see the [WAI-Adapt Task Force page](https://www.w3.org/WAI/APA/task-forces/personalization/).
 
 Formal periods for public review are described in [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute](http://www.w3.org/WAI/intro/w3c-process). To submit comments on specific WAI-Adapt documents, see the “Status of this Document” section of the resource. To get notices of opportunities for review and comment on WAI documents, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 

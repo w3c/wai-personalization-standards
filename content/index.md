@@ -7,6 +7,7 @@ lang: en
 layout: default
 github:
   repository: w3c/wai-personalization-standards
+  path: 'content/index.md'
 feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 29 June 2022. First published March 2019.</p>

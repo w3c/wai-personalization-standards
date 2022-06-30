@@ -10,7 +10,7 @@ github:
   path: 'content/index.md'
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 29 June 2022. First published March 2019.</p>
+  <p><strong>Date:</strong> Updated 29 June 2022. First published March 2019. :-)</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="http://www.w3.org/People/roy/">Ruoxi Ran</a>.</p>
   <p>Developed with input from the <a href="https://www.w3.org/WAI/APA/task-forces/personalization/">WAI-Adapt Task Force</a>.<p>
 ---

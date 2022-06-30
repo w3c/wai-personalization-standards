@@ -72,7 +72,7 @@ WAI-Adapt enables users to use adaptive widgets and user preferences to customiz
 * [WAI-Adapt: Tools Module](https://www.w3.org/TR/adapt-tools/) (Working Draft) lists examples of the adapt tools properties.
 
 ## Who Develops WAI-Adapt
-WAI-Adapt documents are developed by the [WAI-Adapt Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) of the Accessible Platform Working Group ([APA WG](https://www.w3.org/WAI/APA/)), which is part of the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)). For more information about the task force, see the [WAI-Adapt Task Force page](https://www.w3.org/WAI/APA/task-forces/personalization/).
+WAI-Adapt documents are developed by the [WAI-Adapt Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) of the Accessible Platform Architectures Working Group ([APA WG](https://www.w3.org/WAI/APA/)), which is part of the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)). For more information about the task force, see the [WAI-Adapt Task Force page](https://www.w3.org/WAI/APA/task-forces/personalization/).
 
 Formal periods for public review are described in [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute](http://www.w3.org/WAI/intro/w3c-process). To submit comments on specific WAI-Adapt documents, see the “Status of this Document” section of the resource. To get notices of opportunities for review and comment on WAI documents, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 

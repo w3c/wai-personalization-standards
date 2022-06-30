@@ -1,18 +1,15 @@
 ---
-doc-note-type: draft
-doc-note-message: <p>This is a draft re-wording of 'Personalization' to 'Adapt'. See background and discussion in <a href='https://github.com/w3c/wai-personalization-standards/issues/9'>GitHub issue 'branding'</a></p>
-
 title: WAI-Adapt Overview
-title_html: "<span style='line-height:1'><br>WAI-Adapt Overview<br><span style='font-style: italic; font-size: 0.75em'>Enabling users to adapt content<br>Enabling users to adapt content presentation<br>Enabling users to change content presentation<br>Enabling users to personalize content presentation</span></span>"	
-permalink: /personalization/
-ref: /personalization/
+title_html: "<span style='line-height:1'>WAI-Adapt Overview<br><span style='font-style: italic; font-size: 0.75em'>Enabling users to adapt content presentation</span>"	
+permalink: /adapt/
+ref: /adapt/
 lang: en
 layout: default
 github:
   repository: w3c/wai-personalization-standards
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated @@ June 2022. First published March 2019.</p>
+  <p><strong>Date:</strong> Updated 29 June 2022. First published March 2019.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="http://www.w3.org/People/roy/">Ruoxi Ran</a>.</p>
   <p>Developed with input from the <a href="https://www.w3.org/WAI/APA/task-forces/personalization/">WAI-Adapt Task Force</a>.<p>
 ---
@@ -80,5 +77,3 @@ WAI-Adapt documents are developed by the [WAI-Adapt Task Force](https://www.w3.o
 Formal periods for public review are described in [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute](http://www.w3.org/WAI/intro/w3c-process). To submit comments on specific WAI-Adapt documents, see the “Status of this Document” section of the resource. To get notices of opportunities for review and comment on WAI documents, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 
 Opportunities for contributing to WAI-Adapt and other WAI work are introduced in [Participating in WAI](https://www.w3.org/WAI/about/participating/).
-  
-  ...

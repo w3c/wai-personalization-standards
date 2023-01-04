@@ -10,7 +10,7 @@ github:
   path: 'content/index.md'
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 29 June 2022. First published March 2019.</p>
+  <p><strong>Date:</strong> Updated 05 January 2023. First published March 2019.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="http://www.w3.org/People/roy/">Ruoxi Ran</a>.</p>
   <p>Developed with input from the <a href="https://www.w3.org/WAI/APA/task-forces/adapt/">WAI-Adapt Task Force</a>.<p>
 ---
@@ -23,12 +23,10 @@ This page introduces the WAI-Adapt series of technical specifications. WAI-Adapt
   
 Why Adapt: It's important to meet individual needs and preferences, including the accessibility needs of people with disabilites.
 
-Quick links to documents:
-* [Requirements for WAI-Adapt Specifications](https://www.w3.org/TR/adapt-requirements/)
+Quick links to select documents:
 * [WAI-Adapt Explainer](https://www.w3.org/TR/adapt/)
-* [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/)
-* [WAI-Adapt: Help and Support Module](https://www.w3.org/TR/adapt-help/)
-* [WAI-Adapt: Tools Module](https://www.w3.org/TR/adapt-tools/)
+* [Requirements for WAI-Adapt Specifications](https://www.w3.org/TR/adapt-requirements/)
+* [WAI-Adapt: Symbols Module](https://www.w3.org/TR/adapt-symbols/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -51,7 +49,7 @@ Quick links to documents:
   
 WAI-Adapt specifications enable users to personalize how content is presented in order to meet their needs and preferences.
   
-As web technology broadens in scope and reach, and understanding of users' needs increases through research and experience, the set of accessibility considerations for websites becomes larger. Rather than developing complex solutions for a wide range of users, designing sites in a way that they can be personalized to the needs of each user provides more optimal accessibility.
+<!-- edit to simplify -->As web technology broadens in scope and reach, and understanding of users' needs increases through research and experience, the set of accessibility considerations for websites becomes larger. Rather than developing complex solutions for a wide range of users, designing sites in a way that they can be personalized to the needs of each user provides more optimal accessibility.
 
 WAI-Adapt enables users to use adaptive widgets and user preferences to customize their user experience. It enables content authors to provide a default design and enable user adaptation with minimal work.
 
@@ -66,9 +64,13 @@ WAI-Adapt enables users to use adaptive widgets and user preferences to customiz
 * **User agents** such as browser extensions and assistive technology can use the syntax to manipulate the content to meet the user’s need. User agents can also use user preferences for different interface options.
 
 ## The WAI-Adapt Documents
-* [Requirements for WAI-Adapt Specifications](https://www.w3.org/TR/adapt-requirements/) (Working Draft Note) includes user stories, specific use cases, and requirements for enabling adaptable content.
 * [WAI-Adapt Explainer](https://www.w3.org/TR/adapt/) (Working Draft Note) is the core introductory document that explains general use cases, vocabulary, and anticipated uses.
-* [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/) (Working Draft specification) is the technical specification that provides terms authors can use to enhance web content with information about controls, symbols, and user interface elements.
+* [Requirements for WAI-Adapt Specifications](https://www.w3.org/TR/adapt-requirements/) (Working Draft Note) includes user stories, specific use cases, and requirements for enabling adaptable content.
+* [WAI-Adapt: Symbols Module](https://www.w3.org/TR/adapt-symbols/) (Candidate Recommendation specification) is the technical specification that enables symbols to replace text in web content.
+* [W3C Augmentative and Alternative Communication (AAC) Symbols Registry] provides a mapping between concepts expressed in text and corresponding symbols in AAC symbol sets.
+
+Additional drafts provide information on potential future standards:
+* [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/) (Working Draft specification) has draft ideas for terms authors can use to enhance web content with information about controls and user interface elements. The symbols section is now a separate module.
 * [WAI-Adapt: Help and Support Module](https://www.w3.org/TR/adapt-help/) (Working Draft) lists examples of the adapted help and support properties.
 * [WAI-Adapt: Tools Module](https://www.w3.org/TR/adapt-tools/) (Working Draft) lists examples of the adapt tools properties.
 

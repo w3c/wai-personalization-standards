@@ -67,7 +67,7 @@ WAI-Adapt enables users to use adaptive widgets and user preferences to customiz
 * [WAI-Adapt Explainer](https://www.w3.org/TR/adapt/) (Working Draft Note) is the core introductory document that explains general use cases, vocabulary, and anticipated uses.
 * [Requirements for WAI-Adapt Specifications](https://www.w3.org/TR/adapt-requirements/) (Working Draft Note) includes user stories, specific use cases, and requirements for enabling adaptable content.
 * [WAI-Adapt: Symbols Module](https://www.w3.org/TR/adapt-symbols/) (Candidate Recommendation specification) is the technical specification that enables symbols to replace text in web content.
-* [W3C Augmentative and Alternative Communication (AAC) Symbols Registry](https://www.w3.org/TR/aac-registry/) provides a mapping between concepts expressed in text and corresponding symbols in AAC symbol sets.
+* [W3C Augmentative and Alternative Communication (AAC) Symbols Registry](https://www.w3.org/TR/aac-registry/) ([Registry](https://www.w3.org/2021/Process-20211102/#registries)) provides a mapping between concepts expressed in text and corresponding symbols in AAC symbol sets.
 
 Additional drafts provide information on potential future standards:
 * [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/) (Working Draft specification) has draft ideas for terms authors can use to enhance web content with information about controls and user interface elements. The symbols section is now a separate module.

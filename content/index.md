@@ -15,6 +15,7 @@ footer: >
   <p>Developed with input from the <a href="https://www.w3.org/WAI/APA/task-forces/adapt/">WAI-Adapt Task Force</a>.<p>
 ---
 
+
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}

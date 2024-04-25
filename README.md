@@ -1,3 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e715dd6b-93c3-4f01-b3f7-521296475fb6/deploy-status)](https://app.netlify.com/sites/wai-personalization-standards/deploys)
-
-Preview: https://wai-personalization-standards.netlify.app/adapt/
+> [!IMPORTANT]
+> This repository has been archived 29 April 2024.
+>
+> [WAI-Adapt Overview](https://www.w3.org/WAI/adapt/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
